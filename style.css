@@ -90,10 +90,10 @@ body::before {
     touch-action: manipulation;
 }
 
-.btn:active {
-    transform: translateY(1px);
+.btn:hover {
     background-color: #fce4ec;
-	box-shadow: 0 6px 12px rgba(255, 182, 193, 0.3);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(255, 182, 193, 0.3);
 }
 
 .operator { background-color: #e1f5fe; color: #039be5; }
@@ -103,13 +103,8 @@ body::before {
 @media (min-width: 768px) {
     body::before {
         background-size: 50px 50px;
+        opacity: 0.25;
     }
-
-	.btn:hover {
-		background-color: #fce4ec;
-		transform: translateY(-2px);
-		box-shadow: 0 6px 12px rgba(255, 182, 193, 0.3);
-}
 
     .calculator {
         padding: 25px;
