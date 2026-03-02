@@ -28,7 +28,7 @@ Soft Precision bridges the gap between basic and scientific calculators. While t
 | `0 - 9` | Numeric Input |
 | `+ - * /` | Operators |
 | `(` and `)` | Nested Grouping |
-| `Enter` | Calculate Result |
+| `=` or `Enter` | Calculate Result |
 | `Backspace` | Delete Last Character |
 | `Escape` | Clear All |
 
