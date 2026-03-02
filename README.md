@@ -17,8 +17,9 @@ Soft Precision bridges the gap between basic and scientific calculators. While t
 * **Parenthetical Logic:** Full support for nested `( )` grouping to define custom calculation priority.
 * **Algebraic Precedence:** Engineered to strictly follow **PEMDAS/BODMAS** order of operations.
 * **Full Keyboard Support:** Integrated physical keyboard mapping for numbers, operators, and command keys (Enter, Backspace, Escape).
-* **Soft UI Aesthetic:** A responsive interface featuring a pastel color palette and smooth micro-interactions.
+* **Soft UI Aesthetic:** Responsive interface featuring a pastel color palette and smooth micro-interactions.
 * **Input Sanitization:** Real-time validation to prevent mathematically invalid sequences or syntax errors.
+* **Cross-Platform Responsive Design:** **Mobile-first architecture** optimized for both touch-targets on phones and pointer-precision on desktops.
 
 ## 📟 Keyboard Mapping
 
