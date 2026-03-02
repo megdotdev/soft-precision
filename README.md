@@ -4,6 +4,10 @@ A sophisticated front-end calculator designed with a Soft UI aesthetic and a rob
 
 ✨ [Launch Application](https://megdotdev.github.io/soft-precision/) | 🛠️ [Source Code](https://github.com/megdotdev/soft-precision)
 
+<div align="center">
+  <img src="./images/screenshot.png" alt="Soft Precision UI Preview" width="350">
+</div>
+
 ## 📖 Overview
 
 Soft Precision bridges the gap between basic and scientific calculators. While the interface utilizes a curated, aesthetic-driven design for visual comfort, the underlying architecture features a custom expression parser capable of evaluating nested operations and proper algebraic precedence.
