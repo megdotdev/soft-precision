@@ -85,12 +85,16 @@ body::before {
     cursor: pointer;
     transition: all 0.2s ease;
     box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+
+    -webkit-tap-highlight-color: transparent;
     touch-action: manipulation;
 }
 
 .btn:active {
+    background-color: #fce4ec; 
     transform: translateY(2px);
-    box-shadow: none;
+    box-shadow: 0 2px 8px rgba(255, 182, 193, 0.6); 
+    color: #f06292; 
 }
 
 .operator { background-color: #e1f5fe; color: #039be5; }
