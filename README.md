@@ -2,7 +2,7 @@
 
 A sophisticated front-end calculator designed with a Soft UI aesthetic and a robust mathematical logic engine.
 
-✨ [Launch Application](https://megdotdev.github.io/soft-precision/) | 🛠️ [Source Code](https://github.com/megdotdev/soft-precision)
+✨ [Launch Application](https://megdotdev.github.io/soft-precision/)
 
 <div align="center">
   <img src="./images/screenshot.png" alt="Soft Precision UI Preview" width="350">
