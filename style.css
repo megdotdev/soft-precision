@@ -90,10 +90,10 @@ body::before {
     touch-action: manipulation;
 }
 
-.btn:active {
-    background-color: #fce4ec; 
-    transform: translateY(2px);
-    box-shadow: 0 2px 8px rgba(255, 182, 193, 0.6); 
+.btn:hover {
+    background-color: #fce4ec;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(255, 182, 193, 0.3);
     color: #f06292; 
 }
 
@@ -125,11 +125,5 @@ body::before {
     .btn {
         padding: 20px;
         font-size: 1.3rem;
-    }
-
-    .btn:hover {
-        background-color: #fce4ec;
-        transform: translateY(-2px);
-        box-shadow: 0 6px 12px rgba(255, 182, 193, 0.3);
     }
 }
