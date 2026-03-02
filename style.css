@@ -94,6 +94,7 @@ body::before {
     background-color: #fce4ec;
     transform: translateY(-2px);
     box-shadow: 0 6px 12px rgba(255, 182, 193, 0.3);
+	color: #f06292;
 }
 
 .operator { background-color: #e1f5fe; color: #039be5; }
